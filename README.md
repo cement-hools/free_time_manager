@@ -19,7 +19,6 @@ cd free_time_manager
 ## Использование
 
 ```python
-from datetime import datetime
 from free_time import FreeTime
 
 # Задайте интервалы занятости
